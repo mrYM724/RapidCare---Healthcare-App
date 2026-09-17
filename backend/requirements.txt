@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+supabase
+pydantic
+scikit-learn
+pandas
+python-dotenv
+pyjwt
+cors
